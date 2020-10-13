@@ -1,0 +1,45 @@
+/* 
+  InfoPlist.strings
+  OnChain
+
+  Created by Zeus.Zhang on 2018/2/26.
+  Copyright © 2018年 Zeus. All rights reserved.
+*/
+LoginCreate = "Create";
+LoginImport = "Import";
+LoginEnterName = "Enter your name";
+LoginCreateCount = "Create a digital identity";
+LoginSetPassword = "Set a password";
+LoginRetypePassword = "Retype the password";
+LoginService = "I comfirm that i have read and agree with the\nTerms of Service";
+EnterIdentity = "Enter label of your identity";
+SelectAlert = "Please enter 1-12 charaters";
+SelectBox = "Please check box";
+Back = "Back";
+CreateAlert = "Only the private key can control your digital identity, we use the financial level encryptionstandard to protect your private key, please keep in mind PIN.";
+PWDERROR = "The password you entered dose not match";
+
+AddVerfied = "Add Verfied Claim";
+Realname = "Realname Certification";
+Identity = "Identity Certitication of PRC";
+Social = "Social Media Certification";
+Twitter = "Twitter Certification";
+Linkedin = "Linkedin CerTification";
+Github = "Github Certification";
+Facebook = "Facebook Certification";
+
+TwitterClaim = "Twitter Claim";
+LinkedinClaim = "Linkedin Claim";
+GithubClaim = "Github Claim";
+FacebookClaim = "Facebook Claim";
+
+Myauthorization= "My authorization";
+Myverifledclaim= "My verifled claim";
+Digitalidentitymanage= "Digital identity manage";
+Walletmanage= "Wallet manage";
+Systemsettings= "System settings";
+Helpcenter= "Help center";
+Aboutus= "About us";
+
+
+
